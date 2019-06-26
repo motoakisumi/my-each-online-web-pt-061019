@@ -1,5 +1,8 @@
 def my_each (array)
-  i = 
+  i = 0
+  
+  while 
+
   yield(array)
 end
 
